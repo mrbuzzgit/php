@@ -4,7 +4,10 @@ http://phpandmysql.com
 
 # TABLE OF CONTENTS
 
-## Introduction
+### Introduction
+
+1. STATIC VARIABLE VS DYNAMIC WEBSITES
+2. PHP: THE LANGAUGE AND THE INTERPRETER
 
 ### Section A - Basic Programming Instructions
 
