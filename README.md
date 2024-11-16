@@ -14,7 +14,7 @@ http://phpandmysql.com
 6. HISTORY OF PHP
 7. HISTORY OF MYSQL
 
-### Section A - Basic Programming Instructions
+### Section A - Basic Programming Instructions ([Link](https://github.com/mrbuzzgit/php/tree/851d14f9c0b166c2e0b8838d0184bdcc569da5a2/section_a))
 
 1. Variables, Expressions & Operators
 2. Control Structures
