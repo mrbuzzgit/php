@@ -1,9 +1,5 @@
 # TABLE OF CONTENTS
 
-TABLE OF CONTENTS
+## Introduction
 
-Introduction
-
-  Static VS Dynamic Websites
-
-Section A Basic Programming Instructions
+### Section A Basic Programming Instructions
