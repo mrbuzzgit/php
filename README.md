@@ -156,7 +156,7 @@ Updating Indexed array
 $shopping_list[2] = 'butter';
 ```
 
-#### CHANGING VALUES STORED IN ARRAYS
+#### [CHANGING VALUES STORED IN ARRAYS](section_a/c01/updating-arrays.php)
 
 ```php
 <?php 
