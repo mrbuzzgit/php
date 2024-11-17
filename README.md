@@ -88,7 +88,6 @@ $member = [
 ];
 ```
 
-
 #### [CREATING & ACCESSING ASSOCIATIVE ARRAYS](section_a/c01/associative-arrays.php)
 ```php
 <?php 
@@ -140,8 +139,10 @@ $best_sellers = ['Chocolate', 'Mints', 'Fudge',
 ```
 ![Screenshot 2024-11-17 130022](https://github.com/user-attachments/assets/dfff6b41-afdc-4d51-b2f6-c5b1c94d9230)
 
-
-
+#### INDEXED ARRAYS
+```php
+$shopping_list = ['bread', 'cheese', 'milk',];
+```
 
 ### 2. Control Structures
 ### 3. Functions
