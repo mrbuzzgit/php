@@ -28,7 +28,7 @@ http://phpandmysql.com
     
 ### 1. Variables, Expressions & Operators
 
-#### VARIABLES
+### VARIABLES
 Variables store data that can change (or vary) each time a PHP page is requested. They use a **name** to represent a **value** that can change.
 
 #### [CREATING AND ACCESSING VARIABLES](section_a/c01/variables.php)
