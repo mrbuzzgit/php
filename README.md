@@ -26,6 +26,7 @@ http://phpandmysql.com
 3. HOW PHP PAGES MIX HTML & PHP CODE
     
 ### 1. Variables, Expressions & Operators
+
 #### VARIABLES
 Variables store data that can change (or vary) each time a PHP page is requested. They use a **name** to represent a **value** that can change.
 #### [CREATING AND ACCESSING VARIABLES](section_a/c01/variables.php)
@@ -73,6 +74,7 @@ $price = 5;
 </html>
 ```
 ![Screenshot 2024-11-17 120054](https://github.com/user-attachments/assets/6982909b-a145-4c47-b651-778769659bfa)
+
 
 
 ### 2. Control Structures
