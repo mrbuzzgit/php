@@ -103,6 +103,10 @@ $nutrition = [
   </body>
 </html>
 ```
+![Screenshot 2024-11-17 125420](https://github.com/user-attachments/assets/84ebd9e8-a23a-4d41-aee5-1ced63b8ee27)
+
+
+
 
 ### 2. Control Structures
 ### 3. Functions
