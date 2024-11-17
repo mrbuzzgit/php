@@ -146,12 +146,12 @@ $best_sellers = ['Chocolate', 'Mints', 'Fudge',
 
 #### UPDATING ARRAYS
 
-Associative array
+Updating Associative array
 ```php
 $member['name'] = 'Tom';
 ```
 
-Indexed array
+Updating Indexed array
 ```php
 $shopping_list[2] = 'butter';
 ```
