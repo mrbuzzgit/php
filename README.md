@@ -69,6 +69,7 @@ $price = 5;
   </body>
 </html>
 ```
+![Screenshot 2024-11-17 115750](https://github.com/user-attachments/assets/348bfa43-7955-4e18-9167-4d190bd59a3e)
 
 
 ### 2. Control Structures
