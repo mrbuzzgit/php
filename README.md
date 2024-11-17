@@ -76,6 +76,10 @@ $price = 5;
 ![Screenshot 2024-11-17 120054](https://github.com/user-attachments/assets/6982909b-a145-4c47-b651-778769659bfa)
 
 #### ARRAYS
+A variable can also hold an array which stores a series of related values. Arrays are known as a compund data type because they can store more than one value.
+
+
+
 
 ### 2. Control Structures
 ### 3. Functions
