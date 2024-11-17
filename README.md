@@ -48,7 +48,8 @@ $price = 5;
   </body>
 </html>
 ```
-![Screenshot 2024-11-17 120054](https://github.com/user-attachments/assets/caaffb35-f4af-4761-9c47-013dbb234182)
+![Screenshot 2024-11-17 120054](https://github.com/user-attachments/assets/2549ad7e-2d79-4d40-bce5-a42c4b7f52a5)
+
 
 #### [UPDATING A VALUE IN A VARIABLE](section_a/c01/updating-variables.php)
 ```php
@@ -71,7 +72,7 @@ $price = 5;
   </body>
 </html>
 ```
-![Screenshot 2024-11-17 115750](https://github.com/user-attachments/assets/348bfa43-7955-4e18-9167-4d190bd59a3e)
+![Screenshot 2024-11-17 120054](https://github.com/user-attachments/assets/6982909b-a145-4c47-b651-778769659bfa)
 
 
 ### 2. Control Structures
