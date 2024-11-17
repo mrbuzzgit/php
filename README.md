@@ -78,9 +78,30 @@ $price = 5;
 #### ARRAYS
 A variable can also hold an **array** which stores a series of related values. Arrays are known as a **compound data type** because they can store more than one value.
 
-#### CREATING & ACCESSING ASSOCIATIVE ARRAYS
-
-
+#### [CREATING & ACCESSING ASSOCIATIVE ARRAYS](section_a/c01/associative-arrays.php)
+```php
+<?php 
+$nutrition = [
+    'fat'   => 16,
+    'sugar' => 51,
+    'salt'  => 6.3,
+];
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Associative Arrays</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <h1>The Candy Store</h1>
+    <h2>Nutrition (per 100g)</h2>
+    <p>Fat:   <?php echo $nutrition['fat']; ?>%</p>
+    <p>Sugar: <?php echo $nutrition['sugar']; ?>%</p>
+    <p>Salt:  <?php echo $nutrition['salt']; ?>%</p>
+  </body>
+</html>
+```
 
 ### 2. Control Structures
 ### 3. Functions
