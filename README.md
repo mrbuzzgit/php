@@ -26,9 +26,9 @@ http://phpandmysql.com
    - http://localhost/phpbook/section_a/intro/test.php
 4. HOW PHP PAGES MIX HTML & PHP CODE
     
-### 1. Variables, Expressions & Operators
+## 1. Variables, Expressions & Operators
 
-### VARIABLES
+## VARIABLES
 Variables store data that can change (or vary) each time a PHP page is requested. They use a **name** to represent a **value** that can change.
 
 #### [CREATING AND ACCESSING VARIABLES](section_a/c01/variables.php)
