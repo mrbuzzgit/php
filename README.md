@@ -105,6 +105,31 @@ $nutrition = [
 ```
 ![Screenshot 2024-11-17 125420](https://github.com/user-attachments/assets/84ebd9e8-a23a-4d41-aee5-1ced63b8ee27)
 
+#### [CREATING & ACCESSING INDEXED ARRAYS](section_a/c01/indexed-arrays.php)
+```php
+<?php 
+$best_sellers = ['Chocolate', 'Mints', 'Fudge',
+    'Bubble gum', 'Toffee', 'Jelly beans',];
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Indexed Arrays</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <h1>The Candy Store</h1>
+    <h2>Best Sellers</h2>
+    <ul>
+      <li><?php echo $best_sellers[0]; ?></li>
+      <li><?php echo $best_sellers[1]; ?></li>
+      <li><?php echo $best_sellers[2]; ?></li>
+    </ul>
+  </body>
+</html>
+```
+![Screenshot 2024-11-17 130022](https://github.com/user-attachments/assets/dfff6b41-afdc-4d51-b2f6-c5b1c94d9230)
+
 
 
 
