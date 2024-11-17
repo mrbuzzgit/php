@@ -186,6 +186,38 @@ $nutrition['fiber'] = 2.1;
 ```
 ![Screenshot 2024-11-17 143740](https://github.com/user-attachments/assets/4b78dd40-14e5-4e19-8d1c-6d0f5add23c3)
 
+#### [MULTIDIMENSIONAL ARRAYS](section_a/c01/multidimensional-arrays.php)
+
+```php
+<?php 
+$offers = [
+    ['name' => 'Toffee', 'price' => 5, 'stock' => 120,],
+    ['name' => 'Mints',  'price' => 3, 'stock' => 66,],
+    ['name' => 'Fudge',  'price' => 4, 'stock' => 97,],
+];
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Multidimensional Arrays</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <h1>The Candy Store</h1>
+    <h2>Offers</h2>
+    <p><?php echo $offers[0]['name']; ?> -
+      $<?php echo $offers[0]['price']; ?> </p>
+    <p><?php echo $offers[1]['name']; ?> -
+      $<?php echo $offers[1]['price']; ?> </p>
+    <p><?php echo $offers[2]['name']; ?> -
+      $<?php echo $offers[2]['price']; ?> </p>
+  </body>
+</html>
+```
+![Screenshot 2024-11-17 145119](https://github.com/user-attachments/assets/c8900b0e-fbb3-455a-a1f7-18b714da6abd)
+
+
+
 
 ### 2. Control Structures
 ### 3. Functions
