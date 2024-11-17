@@ -27,7 +27,7 @@ http://phpandmysql.com
     
 ### 1. Variables, Expressions & Operators
 #### VARIABLES
-#### [CREATING AND ACCESSING VARIABLES](url)
+#### [CREATING AND ACCESSING VARIABLES](section_a/c01/variables.php)
 ### 2. Control Structures
 ### 3. Functions
 ### 4. Object & Classes
