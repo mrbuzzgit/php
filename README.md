@@ -28,7 +28,7 @@ http://phpandmysql.com
 ### 1. Variables, Expressions & Operators
 #### VARIABLES
 #### [CREATING AND ACCESSING VARIABLES](section_a/c01/variables.php)
-```
+```php
 <?php 
 $name  = 'Ivy';
 $price = 5;
