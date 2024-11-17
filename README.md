@@ -79,6 +79,15 @@ $price = 5;
 #### ARRAYS
 A variable can also hold an **array** which stores a series of related values. Arrays are known as a **compound data type** because they can store more than one value.
 
+```php
+$member = [
+'name'    => 'Ivy',
+'age'     => 32,
+'country' => 'Italy',
+];
+```
+
+
 #### [CREATING & ACCESSING ASSOCIATIVE ARRAYS](section_a/c01/associative-arrays.php)
 ```php
 <?php 
