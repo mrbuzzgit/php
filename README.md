@@ -48,6 +48,8 @@ $price = 5;
   </body>
 </html>
 ```
+![Screenshot 2024-11-17 120054](https://github.com/user-attachments/assets/caaffb35-f4af-4761-9c47-013dbb234182)
+
 #### [UPDATING A VALUE IN A VARIABLE](section_a/c01/updating-variables.php)
 ```php
 <?php 
