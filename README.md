@@ -23,7 +23,8 @@ http://phpandmysql.com
 
 1. INSTALLING SOFTWARE AND FILES
 2. DOWNLOADING THE SAMPLE CODE
-3. HOW PHP PAGES MIX HTML & PHP CODE
+   - http://localhost/phpbook/section_a/intro/test.php
+4. HOW PHP PAGES MIX HTML & PHP CODE
     
 ### 1. Variables, Expressions & Operators
 
