@@ -144,6 +144,47 @@ $best_sellers = ['Chocolate', 'Mints', 'Fudge',
 ```
 ![Screenshot 2024-11-17 130022](https://github.com/user-attachments/assets/dfff6b41-afdc-4d51-b2f6-c5b1c94d9230)
 
+#### UPDATING ARRAYS
+
+Associative array
+```php
+$member['name'] = 'Tom';
+```
+
+Indexed array
+```php
+$shopping_list[2] = 'butter';
+```
+
+#### CHANGING VALUES STORED IN ARRAYS
+
+```php
+<?php 
+$nutrition = [
+    'fat'   => 38, 
+    'sugar' => 51, 
+    'salt'  => 0.25,
+];
+$nutrition['fat']   = 36;
+$nutrition['fiber'] = 2.1;
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Updating Arrays</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <h1>The Candy Store</h1>
+    <h2>Nutrition (per 100g)</h2>
+    <p>Fat:   <?php echo $nutrition['fat']; ?>%</p>
+    <p>Sugar: <?php echo $nutrition['sugar']; ?>%</p>
+    <p>Salt:  <?php echo $nutrition['salt']; ?>%</p>
+    <p>Fiber: <?php echo $nutrition['fiber']; ?>%</p>
+  </body>
+</html>
+```
+![Screenshot 2024-11-17 143740](https://github.com/user-attachments/assets/4b78dd40-14e5-4e19-8d1c-6d0f5add23c3)
 
 
 ### 2. Control Structures
