@@ -19,7 +19,7 @@ http://phpandmysql.com
      - DATABASE DRIVEN WEBSITES
      - EXTENDING THE SAMPLE APPLICATION
 
-## Section A - Basic Programming Instructions ([Link](https://github.com/mrbuzzgit/php/tree/851d14f9c0b166c2e0b8838d0184bdcc569da5a2/section_a))
+## Section A - Basic Programming Instructions
 
 1. INSTALLING SOFTWARE AND FILES
 2. DOWNLOADING THE SAMPLE CODE
